@@ -1,0 +1,4 @@
+﻿  Test2.cpp
+C:\C++\Test2\Test2\Test2.cpp(29,1): warning C4305: =: усечение из "double" в "float"
+C:\C++\Test2\Test2\Test2.cpp(33,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Test2.vcxproj -> C:\C++\Test2\x64\Debug\Test2.exe
